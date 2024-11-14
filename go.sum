@@ -1008,6 +1008,8 @@ github.com/piboistudios/googleclouddns v1.1.1-0.20241114183823-48b03ff5b138 h1:p
 github.com/piboistudios/googleclouddns v1.1.1-0.20241114183823-48b03ff5b138/go.mod h1:id05BoN3ryw8GGB3+KXHzGQdcqJ9PA0ShWr17OGWKoQ=
 github.com/piboistudios/googleclouddns v1.1.1-0.20241114184919-4b80585240cb h1:mxZM7BCJJqHDLi3TcvEQrjqZmWlbdZpJHWr+YfAAw9w=
 github.com/piboistudios/googleclouddns v1.1.1-0.20241114184919-4b80585240cb/go.mod h1:id05BoN3ryw8GGB3+KXHzGQdcqJ9PA0ShWr17OGWKoQ=
+github.com/piboistudios/googleclouddns v1.1.1-0.20241114185409-99837b127cc3 h1:PQEQ1A0ojIzQRlTioM1mmCRbI2QLC3rlHvrvLhcE8YY=
+github.com/piboistudios/googleclouddns v1.1.1-0.20241114185409-99837b127cc3/go.mod h1:id05BoN3ryw8GGB3+KXHzGQdcqJ9PA0ShWr17OGWKoQ=
 github.com/pierrec/lz4 v1.0.2-0.20190131084431-473cd7ce01a1/go.mod h1:3/3N9NVKO0jef7pBehbT1qWhCMrIgbYNnFAZCqQ5LRc=
 github.com/pierrec/lz4 v2.0.5+incompatible/go.mod h1:pdkljMzZIN41W+lC3N2tnIh5sFi+IEE17M5jbnwPHcY=
 github.com/pierrec/lz4 v2.5.2+incompatible/go.mod h1:pdkljMzZIN41W+lC3N2tnIh5sFi+IEE17M5jbnwPHcY=

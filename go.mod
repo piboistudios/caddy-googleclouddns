@@ -11,7 +11,7 @@ require (
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/onsi/ginkgo/v2 v2.4.0 // indirect
-	github.com/piboistudios/googleclouddns v1.1.1-0.20241114211525-a018699e0677 // indirect
+	github.com/piboistudios/googleclouddns v1.1.1-0.20241114213730-ad6069ee0e5f // indirect
 	github.com/prometheus/client_golang v1.13.0 // indirect
 	github.com/prometheus/client_model v0.3.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect

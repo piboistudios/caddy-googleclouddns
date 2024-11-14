@@ -3,7 +3,7 @@ package googleclouddns
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	libgoogleclouddns "github.com/piboistudios/caddy-googleclouddns"
+	libgoogleclouddns "github.com/piboistudios/googleclouddns"
 )
 
 // Provider lets Caddy read and manipulate DNS records hosted by this DNS provider.
